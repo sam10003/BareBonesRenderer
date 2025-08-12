@@ -3,11 +3,15 @@ Minimal C++ wireframe renderer built entirely on the CPU, using only standard C 
 
 ## Features
 
+![Wireframe rendering demo](./assets/gifs/demo.gif)
+
 -- loads .obj files (inside the /assets)
 -- basic camera movement with WASD and mouse
 -- wireframe rendering
 
 ## How to build
+
+its just some CMake tbh
 
 ```bash
 mkdir build
